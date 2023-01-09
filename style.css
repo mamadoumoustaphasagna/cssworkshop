@@ -1,0 +1,41 @@
+h1 {
+    color: red;
+    font: sans-serif;
+  }
+  .title{
+    color:yellow
+  }
+  h2 {
+    color: red;
+    font: sans-serif;
+    font-size: 100px
+  }
+  h3 { font-style:oblique;
+    color: red;
+    font: sans-serif;
+  }
+  h4 {
+    color: red;
+    font: sans-serif;
+    display: inline;
+}
+  }
+  h5 {
+    color: red;
+    font: sans-serif;
+  }
+  .title{
+    color:green;
+    font-size: 100px
+  }
+  .box p {
+    color: green;
+} 
+article> p {
+  font-weight: bold;
+  background-color: #333;
+  color: green;
+  padding: .5em;
+}
+
+  
